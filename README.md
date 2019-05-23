@@ -1,4 +1,7 @@
 # SLAM Algorithm
+Simultaneous localization and mapping (SLAM) requires the robot to start from an unknown location in a completely unknown environment, and use the sensor to observe the environment to incrementally establish the navigation map of the environment. At the same time, according to the established map synchronization to determine their position, and thus comprehensively answer the question ”Where am I?” and finally evaluate the surrounding environment.
+
+This poject presented approaches using SLAM system to solve the localization problem of a differential-drive robot and using depth and RGB camera to texture the map. This work shows the detailed steps of using particle filter method to localize the accurate location of the robot and bulit the map detected by the robot. Finally texture the map with real color segment.
 
 ![image](https://github.com/TongJiL/SLAM/blob/master/image/20.jpeg)
 
