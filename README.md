@@ -8,9 +8,13 @@ This repo provides some implements of the SLAM algorithm on an in-door moving ro
 Code organization
 =================
 load_data.py    --Provide the way to load date from sensors
+
 map_utils.py    --The method to build grid map
+
 TEST.py         --The method to build the map using dead-reckoning
+
 particles.py    --The method to use particle filter to do the SLAM
+
 texture.py      --Texturing the map to put the coresponding color on the map after SLAM
 
 Runs
