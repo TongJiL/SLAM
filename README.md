@@ -1,6 +1,7 @@
 # SLAM Algorithm
 
- 
+![image](https://github.com/TongJiL/SLAM/blob/master/image/20.jpeg)
+
 Description
 ===========
 This repo provides some implements of the SLAM algorithm on an in-door moving robot.
