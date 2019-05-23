@@ -1,4 +1,4 @@
-# SLAM
+# SLAM Algorithm
 
  
 Description
@@ -20,3 +20,7 @@ texture.py      --Texturing the map to put the coresponding color on the map aft
 Runs
 ==========
 Each code can be run directly. However, it would take some time to get results from particles.py and texture.py(Approximately 2 hours).
+
+Results
+============
+rep.pdf contains the summary of the method and the results.
